@@ -1,6 +1,6 @@
 # Build A Neural Network From Scratch
 
-### Introduction
+# Introduction
 
 - What is a neural network?
 - What modules are included in a neural network?
@@ -25,7 +25,7 @@ The [neural network modules](https://github.com/Yuanzhe-Jia/Build-A-Neural-Netwo
 13. Mini-batch Training
 
 
-### How to use
+# Quick Start
 
 Step 1: 
 Install [packages](https://pypi.org/project/network-yuanzhe/).
