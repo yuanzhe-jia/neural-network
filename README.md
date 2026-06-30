@@ -28,7 +28,7 @@ The [neural network modules](https://github.com/Yuanzhe-Jia/Build-A-Neural-Netwo
 ### Quick Start
 
 Step 1: 
-Install [packages](https://pypi.org/project/network-yuanzhe/).
+Install packages.
 ```
 !pip install network_yuanzhe==1.0.2
 ```
