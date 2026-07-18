@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.mypy_cache/
