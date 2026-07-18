@@ -1,4 +1,4 @@
-# Build A Neural Network From Scratch
+# Build a Neural Network from Scratch
 
 The widespread adoption of high-level deep learning libraries, while accelerating model development, has increasingly abstracted away the internal mechanics of neural networks, creating a gap between practical usage and fundamental understanding.
 To address this, the project presents a self-contained neural network framework implemented entirely from scratch---without relying on automatic differentiation or pre-built deep learning modules.
@@ -10,11 +10,11 @@ The extensible design and clean modularity further position it as a reliable bas
 ### Core Architecture
 
 - **Multiple Hidden Layers** — Build deep neural networks with flexible layer configurations
-- **Kaiming Initialization** — Proper weight initialization for stable training (supports ReLU, Tanh, and Sigmoid)
+- **Kaiming Initialization** — Proper weight initialization for stable training (ReLU, Tanh, and GELU)
 
 ### Regularization Techniques
 
-- **Weight Decay** — L2 regularization to prevent overfitting (engineer's implementation)
+- **Weight Decay** — L2 regularization to prevent overfitting
 - **Batch Normalization** — Reduces internal covariate shift with running mean/variance for inference
 - **Dropout** — Inverted dropout implementation for robust regularization
 - **Label Smoothing** — Softens one-hot labels to improve generalization
