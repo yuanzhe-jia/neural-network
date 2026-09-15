@@ -1,7 +1,7 @@
 # Build a Neural Network from Scratch
 
-The widespread adoption of high-level deep learning libraries, while accelerating model development, has increasingly abstracted away the internal mechanics of neural networks, creating a gap between practical usage and fundamental understanding.
-To address this, the project presents a self-contained neural network framework implemented entirely from scratch---without relying on automatic differentiation or pre-built deep learning modules.
+**Abstract.** The widespread adoption of high-level deep learning libraries, while accelerating model development, has increasingly abstracted away the internal mechanics of neural networks, creating a gap between practical usage and fundamental understanding.
+To address this, the project presents a self-contained neural network framework implemented entirely from scratch without relying on automatic differentiation or pre-built deep learning modules.
 The implementation encompasses all essential components, including multi-layer architectures, diverse activation functions, regularization techniques, and state-of-the-art optimizers.
 The extensible design and clean modularity further position it as a reliable baseline for educational purposes and future research exploration.
 
